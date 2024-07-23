@@ -1,0 +1,59 @@
+body{
+     background-color:hsl(217, 54%, 11%) ;
+     display: flex;
+}
+main{
+    background-color:hsl(216, 50%, 16%) ;
+    color: white;
+    padding: 20px;
+    max-width: 350px;
+    margin: auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.nathaniel{
+    width: 100%; 
+}
+p{
+    color:hsl(215, 51%, 70%) ;
+    font-size: 20px;
+}
+.bee{
+    display: flex;
+    justify-content: space-between;
+    color: cyan;
+    align-items: center;
+}
+.bee h3{
+    color:hsl(215, 51%, 70%) ;
+    align-items: center;
+    display: flex;
+    gap: 10px;
+}
+.bee h5{
+    font-size: 20px;
+    align-items: center;
+    display: flex;
+    gap: 10px;
+}
+
+.line {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.line img{
+    width: 50px;
+    border: 5px solid white;
+    border-radius: 30px;
+}
+h1:hover{
+    color: cyan;
+}
+h4:hover{
+    color: cyan;
+}
+
+/* Body Background Color: hsl(217, 54%, 11%) */
+/* Main Background Color: hsl(216, 50%, 16%) */
+/* p  Color: hsl(215, 51%, 70%) */
